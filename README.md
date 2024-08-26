@@ -1,0 +1,1 @@
+# ImageCompressor-GUI-Aplication
